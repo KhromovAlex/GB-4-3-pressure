@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">GB-4-3-pressure</string>
+    <string name="pressure">%1$d / %2$d</string>
+    <string name="pulse">Pulse: %1$d</string>
+    <string name="add_new_pressure">add new pressure</string>
+    <string name="Pressure_Fragment">Pressure Fragment</string>
 </resources>

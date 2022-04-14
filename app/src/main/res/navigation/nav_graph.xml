@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph.xml"
+    app:startDestination="@id/PressureFragment">
+
+    <fragment
+        android:id="@+id/PressureFragment"
+        android:name="com.example.gb_4_3_pressure.presentation.view.PressureFragment"
+        android:label="@string/Pressure_Fragment"
+        tools:layout="@layout/fragment_pressure_list" />
+
+</navigation>

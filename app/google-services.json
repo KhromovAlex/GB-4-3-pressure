@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "433162550679",
+    "project_id": "gb-4-3-pressure",
+    "storage_bucket": "gb-4-3-pressure.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433162550679:android:ecbf94d54ef4e437d498d2",
+        "android_client_info": {
+          "package_name": "com.example.gb_4_3_pressure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433162550679-3ped6dn9f0sudc1ohe7d1olt5kj19s0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB52D9eKkOh9tf2-iT1soLAf9MoBLdlXck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433162550679-3ped6dn9f0sudc1ohe7d1olt5kj19s0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
